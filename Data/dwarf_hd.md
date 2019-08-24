@@ -32,7 +32,7 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 **<!--DwarvenResilienceKey-->Résistance naine<!--/DwarvenResilienceKey-->.** <!--DwarvenResilienceValue-->Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] contre le poison et vous bénéficiez d'une résistance innée aux dégâts de poison.<!--/DwarvenResilienceValue-->
 
-**<!--DwarvenCombatTrainingKey-->Entraînement aux armes naines<!--/DwarvenCombatTrainingKey-->.** <!--DwarvenCombatTrainingValue-->Vous maîtrisez les haches de guerre, les hachettes, les marteaux légers et les marteaux de guerre.<!--/DwarvenCombatTrainingValue-->
+**<!--DwarvenCombatTrainingKey-->Entraînement aux armes naines<!--/DwarvenCombatTrainingKey-->.** <!--DwarvenCombatTrainingValue-->Vous maîtrisez les haches d'armes, les hachettes, les marteaux légers et les marteaux de guerre.<!--/DwarvenCombatTrainingValue-->
 
 **<!--ToolProficiencyKey-->Maîtrise des outils<!--/ToolProficiencyKey-->.** <!--ToolProficiencyValue-->Vous obtenez la maîtrise des outils d'un artisanat de votre choix parmi cette liste : outils de forgeron, matériel de brasseur, outils de maçon.<!--/ToolProficiencyValue-->
 
