@@ -10,9 +10,9 @@
 - AltName: <!--AltName-->Movement (SRD p84)<!--/AltName-->
 - Source: <!--Source-->(MDR p270)<!--/Source-->
 
-Ramper dans l’ombre de la nuit, le long d’un campement ennemi, marcher à pas de loup dans la salle du trône après un banquet où les convives sont endormies sur la grande table, escalader la tour d’un château construite en pierres de taille… Les déplacements constituent un élément essentiel de l’aventure dans Héros & Dragons.
+Ramper dans l’ombre de la nuit, le long d’un campement ennemi, marcher à pas de loup dans la salle du trône après un banquet où les convives sont endormis sur la grande table, escalader la tour d’un château construite en pierres de taille… Les déplacements constituent un élément essentiel de l’aventure.
 
-Le MJ peut tout à fait choisir de faire simple pour décrire les déplacements des PJ. Pas besoin de connaître les distances ni le temps de trajet exacts : « Vous traversez la plaine et, le soir du quatrième jour, vous trouvez le dolmen. » Même en intérieur, lors de l’exploration d'un donjon souterrain, par exemple, et en particulier s'il s'agit d'un ensemble très vaste ou d'un réseau de grottes, le MJ peut résumer ainsi les déplacements du groupe entre deux rencontres. « Après avoir assommé les gardes à l’entrée de la grande galerie occupée par les kobolds, vous consultez le plan que vous a vendu le guide. Normalement, vous devez maintenant progresser sur plusieurs kilomètres à travers des couloirs peuplés seulement par l’écho de vos pas. Au bout d’un moment, vous découvrez la grande arche de pierre qui marque l’entrée du temple. »
+Le MJ peut tout à fait choisir de faire simple pour décrire les déplacements des PJ. Pas besoin de connaître les distances ni le temps de trajet exacts : "Vous traversez la plaine et, le soir du quatrième jour, vous trouvez le dolmen." Même en intérieur, lors de l’exploration d'un donjon souterrain, par exemple, et en particulier s'il s'agit d'un ensemble très vaste ou d'un réseau de grottes, le MJ peut résumer ainsi les déplacements du groupe entre deux rencontres. "Après avoir assommé les gardes à l’entrée de la grande galerie occupée par les kobolds, vous consultez le plan que vous a vendu le guide. Normalement, vous devez maintenant progresser sur plusieurs kilomètres à travers des couloirs peuplés seulement par l’écho de vos pas. Au bout d’un moment, vous découvrez la grande arche de pierre qui marque l’entrée du temple."
 
 Cela dit, selon les scénarios, il est parfois vital de connaître exactement le temps nécessaire pour aller d’un point à un autre, que ce soit en jours, en heures ou en minutes. La règle qui permet de déterminer ce temps de trajet dépend de deux facteurs : la vitesse et le rythme de déplacement des créatures, et le type terrain parcouru.
 
@@ -40,7 +40,7 @@ Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voya
 
 Les chiffres indiqués dans le tableau partent du principe que les personnages marchent 8 heures par jour. Ils peuvent dépasser cette durée, mais risquent alors l’épuisement.
 
-Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne « heure » du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un jet de sauvegarde de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir chapitre 10, Gérer la santé).
+Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne "heure" du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un jet de sauvegarde de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir chapitre 10, Gérer la santé).
 
 <!--/GenericItem-->
 
@@ -48,7 +48,7 @@ Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de ba
 
 ## <!--Name-->Montures et véhicules<!--/Name-->
 
-De nombreux animaux sont capables de se déplacer bien plus rapidement que les humanoïdes sur de courtes périodes de temps (jusqu’à une heure). Un personnage sur une monture peut galoper pendant environ une heure, pendant laquelle il couvre le double de la distance normale d’une marche rapide. S’il échange sa monture contre une monture « fraîche » tous les 12 à 15 km, un personnage peut couvrir de grandes distances à cette vitesse, mais c'est un cas de figure très rare, sauf dans les régions densément peuplées et à condition d’en avoir les moyens.
+De nombreux animaux sont capables de se déplacer bien plus rapidement que les humanoïdes sur de courtes périodes de temps (jusqu’à une heure). Un personnage sur une monture peut galoper pendant environ une heure, pendant laquelle il couvre le double de la distance normale d’une marche rapide. S’il échange sa monture contre une monture "fraîche" tous les 12 à 15 km, un personnage peut couvrir de grandes distances à cette vitesse, mais c'est un cas de figure très rare, sauf dans les régions densément peuplées et à condition d’en avoir les moyens.
 
 Les personnages qui voyagent en chariot, en calèche ou grâce à un autre véhicule terrestre se déplacent à un rythme normal. Les personnages qui se trouvent sur une embarcation maritime sont limités par la vitesse de leur embarcation. Ils ne subissent aucun malus pour un rythme rapide ou ne reçoivent aucun des bénéfices offerts par le rythme lent. En fonction de leur embarcation et de la taille de l’équipage, certains navires peuvent voyager 24 heures sur 24.
 
@@ -62,7 +62,7 @@ Certaines montures spéciales, comme un pégase ou un griffon, ou un véhicule s
 
 La distance parcourue donnée dans le tableau des rythmes de déplacement a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
 
-Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (parcourir un mètre vous coûte deux mètres de vitesse), donc vous ne pouvez parcourir que la moitié de la distance normale en une minute, une heure ou un jour.
+Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (parcourir 1 mètre vous coûte 2 mètres de vitesse), donc vous ne pouvez parcourir que la moitié de la distance normale en une minute, une heure ou un jour.
 
 <!--/GenericItem-->
 
